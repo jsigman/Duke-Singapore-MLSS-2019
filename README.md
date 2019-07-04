@@ -10,7 +10,7 @@ Please come ready to code!
 
 ## Before you arrive
 #### Required
-Please follow the instructions in the installation documents for Mac: [DS_Workshop_Installation_macOS.PPTX](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/DS_Workshop_Installation_macOS.PPTX) or Windows 10: [DS_Workshop_Installation_Win10.pptx](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/DS_Workshop_Installation_Win10.pptx) These will guide you through the installation of Python, TensorFlow, and Jupyter Notebook, the software we'll be using for our afternoon "hands-on" sessions.
+Please follow the instructions in the installation documents for Mac: [DS_Workshop_Installation_macOS.PPTX](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/DS_Workshop_Installation_macOS.PPTX) or Windows 10: [DS_Workshop_Installation_Win10.pptx](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/DS_Workshop_Installation_Win10.pptx). You'll need to click the "Download" link once you're on the page. These will guide you through the installation of Python, TensorFlow, and Jupyter Notebook, the software we'll be using for our afternoon "hands-on" sessions.
 
 Alternately, and if you are more familiar with installation from the command line, please follow the instructions in the notebook labeled [00A_TensorFlow_Installation.ipynb](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/00A_TensorFlow_Installation.ipynb). This has the installation steps required for Mac, Windows, and Ubuntu (GNU/Linux).
 
