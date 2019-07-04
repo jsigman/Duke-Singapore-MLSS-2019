@@ -12,6 +12,8 @@ Please come ready to code!
 #### Required
 Please follow the instructions in the notebook labeled [00A_TensorFlow_Installation.ipynb](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/00A_TensorFlow_Installation.ipynb). It will guide you through the installation of Python, TensorFlow, and Jupyter Notebook, the software we'll be using for our afternoon "hands-on" sessions.
 
+Alternately, use the documents with visual instructions for Mac: [DS_Workshop_Installation_macOS.PDF](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/DS_Workshop_Installation_macOS.PDF) or Windows 10: [DS_Workshop_Installation_Win10.pdf](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/DS_Workshop_Installation_Win10.pdf)
+
 #### Optional
 Given the pace of the course, we'll be assuming some background knowledge for scientific computing in Python.
 If you are unfamiliar with IPython notebooks or Python coding environments, a brief introduction can be found in [00B_Coding_Environments.ipynb](https://github.com/jsigman/Duke-Singapore-MLSS-2019/blob/master/00B_Coding_Environments.ipynb).
