@@ -1,6 +1,6 @@
-# Duke/Duke-NUS Machine Learning Summer School 2019
+# Duke/Duke-NUS Plus Data Science Workshop 2019
 
-Welcome to the Duke/Singapore Machine Learning Summer School 2019!
+Welcome to the Duke/Duke-NUS Plus Data Science Workshop 2019!
 This repository will contain the lecture materials and assignments for the hands-on TensorFlow sessions.
 
 While there is no hard requirement to attend these sessions or complete the exercises, we do strongly recommend them!
